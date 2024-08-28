@@ -1,4 +1,4 @@
-./bin
-./obj
-./shared_lib
+./bin/
+./obj/
+./shared_lib/
 
